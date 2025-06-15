@@ -3,7 +3,7 @@ Your ultimate travel companion.
 RoamReady is a user-friendly mobile application designed to simplify every aspect of your travels, from initial planning to on-the-ground navigation. Whether you're a meticulous planner or a spontaneous adventurer, RoamReady helps you stay organized, discover new places, and make the most of your journey.
 
 Features
-
+Itinerary Planning: Create detailed daily itineraries, add activities, book accommodations, and manage your travel schedule with ease.
 Discovery & Exploration: Find nearby attractions, restaurants, and hidden gems based on your location and preferences.
 Budget Tracking: Keep a close eye on your expenses and manage your travel budget effectively.
 Offline Access: Access your essential travel information, maps, and itineraries even without an internet connection.
